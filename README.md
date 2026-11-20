@@ -1,5 +1,7 @@
 # King Exit — JoiPlay Performance & Stability Patch
 
+> **Disclaimer:** Unofficial community performance & compatibility patch. This repository contains no copyrighted game assets, archives, or full game scripts, and requires an existing copy of the base game.
+
 Non-destructive RPG Maker VX Ace (`libmkxp19.so` / Ruby 1.9.2) optimization and stability patch for **King Exit** on **JoiPlay**, delivered via JoiPlay's standard [`postload.rb`](postload.rb) hook. Zero vanilla game files are modified.
 
 ## What `postload.rb` fixes
